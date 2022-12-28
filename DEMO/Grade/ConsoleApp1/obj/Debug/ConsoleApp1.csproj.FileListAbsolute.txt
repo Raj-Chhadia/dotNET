@@ -1,0 +1,7 @@
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.exe
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\ConsoleApp1\ConsoleApp1\bin\Debug\ConsoleApp1.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.exe
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\ConsoleApp1\ConsoleApp1\obj\Debug\ConsoleApp1.pdb

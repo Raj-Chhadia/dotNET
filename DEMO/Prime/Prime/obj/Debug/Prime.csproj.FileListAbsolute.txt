@@ -1,0 +1,7 @@
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\Prime\Prime\bin\Debug\Prime.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\Prime\Prime\bin\Debug\Prime.exe
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\Prime\Prime\bin\Debug\Prime.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\Prime\Prime\obj\Debug\Prime.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\Prime\Prime\obj\Debug\Prime.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\Prime\Prime\obj\Debug\Prime.exe
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\Prime\Prime\obj\Debug\Prime.pdb
