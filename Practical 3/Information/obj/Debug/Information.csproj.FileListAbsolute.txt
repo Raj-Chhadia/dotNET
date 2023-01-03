@@ -1,0 +1,7 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Information\bin\Debug\Information.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Information\bin\Debug\Information.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Information\bin\Debug\Information.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Information\obj\Debug\Information.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Information\obj\Debug\Information.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Information\obj\Debug\Information.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Information\obj\Debug\Information.pdb

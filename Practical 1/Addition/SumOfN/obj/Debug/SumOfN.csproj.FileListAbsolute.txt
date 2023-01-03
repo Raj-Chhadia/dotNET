@@ -1,0 +1,6 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\SumOfN\obj\Debug\SumOfN.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\SumOfN\bin\Debug\SumOfN.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\SumOfN\bin\Debug\SumOfN.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\SumOfN\bin\Debug\SumOfN.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\SumOfN\obj\Debug\SumOfN.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\SumOfN\obj\Debug\SumOfN.pdb

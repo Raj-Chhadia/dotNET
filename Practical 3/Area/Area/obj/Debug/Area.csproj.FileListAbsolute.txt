@@ -1,0 +1,7 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Area\Area\bin\Debug\Area.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Area\Area\bin\Debug\Area.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Area\Area\bin\Debug\Area.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Area\Area\obj\Debug\Area.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Area\Area\obj\Debug\Area.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Area\Area\obj\Debug\Area.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 3\Area\Area\obj\Debug\Area.pdb

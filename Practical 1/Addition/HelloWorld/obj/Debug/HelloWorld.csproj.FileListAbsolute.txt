@@ -1,0 +1,7 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\HelloWorld\bin\Debug\HelloWorld.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\HelloWorld\bin\Debug\HelloWorld.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\HelloWorld\bin\Debug\HelloWorld.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\HelloWorld\obj\Debug\HelloWorld.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\HelloWorld\obj\Debug\HelloWorld.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\HelloWorld\obj\Debug\HelloWorld.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\HelloWorld\obj\Debug\HelloWorld.pdb
