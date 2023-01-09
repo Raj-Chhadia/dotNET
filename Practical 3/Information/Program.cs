@@ -10,6 +10,7 @@ namespace Information
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Raj Chhadia");
             Student s1 = new Student();
             Employee e1 = new Employee();
             Console.WriteLine("Enter your choice: ");
