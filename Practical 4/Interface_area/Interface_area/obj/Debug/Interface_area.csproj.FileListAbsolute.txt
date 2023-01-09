@@ -1,0 +1,7 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Interface_area\Interface_area\bin\Debug\Interface_area.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Interface_area\Interface_area\bin\Debug\Interface_area.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Interface_area\Interface_area\bin\Debug\Interface_area.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Interface_area\Interface_area\obj\Debug\Interface_area.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Interface_area\Interface_area\obj\Debug\Interface_area.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Interface_area\Interface_area\obj\Debug\Interface_area.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Interface_area\Interface_area\obj\Debug\Interface_area.pdb
