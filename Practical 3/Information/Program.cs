@@ -11,24 +11,41 @@ namespace Information
         static void Main(string[] args)
         {
             Student s1 = new Student();
-            s1.getData();
-            s1.putData();
-
             Employee e1 = new Employee();
-            e1.getData();
-            e1.putData();
+            Console.WriteLine("Enter your choice: ");
+            Console.WriteLine("1. Student");
+            Console.WriteLine("2. Employee");
+            int choice = int.Parse(Console.ReadLine());
+            switch (choice)
+            {
+                case (1):
+                    s1.getData();
+                    s1.putData();
+                    break;
+
+                case (2):
+                    e1.getData();
+                    e1.putData();
+                    break;
+            }
             Console.ReadKey();
         }
     }
 
     class Information
     {
-        protected string name;
-        protected string surname;
-        protected int number;
+        public string name;
+        public string surname;
+        public int number;
 
         public void getData()
         {
+            Console.WriteLine("Enter the first name: ");
+            name = Console.ReadLine();
+            Console.WriteLine("Enter the surname: ");
+            surname = Console.ReadLine();
+            Console.WriteLine("Enter the contact number: ");
+            number = int.Parse(Console.ReadLine());
         }
     }
     class Employee:Information
@@ -36,11 +53,15 @@ namespace Information
         int salary;
         public void getData()
         {
+            base.getData();
             Console.WriteLine("Enter the employee salary: ");
             salary = int.Parse(Console.ReadLine());  
         }
         public void putData()
         {
+            Console.WriteLine("Name: " + name);
+            Console.WriteLine("SurName: " + surname);
+            Console.WriteLine("Contact Number: " + number);
             Console.WriteLine("Salary: " + salary);
         }
     }
@@ -50,12 +71,7 @@ namespace Information
 
         public void getData()
         {
-            Console.WriteLine("Enter the name: ");
-            name = Console.ReadLine();
-            Console.WriteLine("Enter the surname: ");
-            surname = Console.ReadLine();
-            Console.WriteLine("Enter the contact number: ");
-            number = int.Parse(Console.ReadLine());
+            base.getData();
             Console.WriteLine("Enter the semester number: ");
             semester = int.Parse(Console.ReadLine());
         }
