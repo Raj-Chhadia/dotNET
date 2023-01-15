@@ -4,3 +4,4 @@ D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\ElectricityBill\bin\Debug\Elect
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\ElectricityBill\obj\Debug\ElectricityBill.csproj.CoreCompileInputs.cache
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\ElectricityBill\obj\Debug\ElectricityBill.exe
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\ElectricityBill\obj\Debug\ElectricityBill.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 1\Addition\ElectricityBill\obj\Debug\ElectricityBill.csproj.AssemblyReference.cache
