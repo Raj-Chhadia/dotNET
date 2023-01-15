@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Palindrome
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Palindrome checker");
             Console.WriteLine("Enter the string: ");
@@ -21,8 +17,7 @@ namespace Palindrome
                 Console.WriteLine("String is Palindrome");
             else
                 Console.WriteLine("String is not Palindrome");
-            Console.ReadKey();
-
+            Console.Read();
         }
     }
 }

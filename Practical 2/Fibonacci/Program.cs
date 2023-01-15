@@ -1,12 +1,8 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Fibonacci
 {
-    class Program
+    internal class Program
     {
         public static int Fibonacci(int n)
         {
@@ -17,14 +13,15 @@ namespace Fibonacci
             else
                 return Fibonacci(n - 1) + Fibonacci(n - 2);
         }
-        static void Main(string[] args)
+
+        private static void Main(string[] args)
         {
             Console.WriteLine("Fibbonacci Series");
             Console.WriteLine("Enter nth term: ");
             int number = int.Parse(Console.ReadLine());
             int term = Fibonacci(number);
-            Console.WriteLine("nth term is: "+term);
-            Console.ReadKey();
+            Console.WriteLine("nth term is: " + term);
+            Console.Read();
         }
     }
 }

@@ -1,9 +1,9 @@
 ﻿using System;
-class HelloWorld
-{
-    static void Main()
-    {
 
+internal class HelloWorld
+{
+    private static void Main()
+    {
         Console.WriteLine("Enter the number : ");
         int number = Convert.ToInt32(Console.ReadLine());
 
@@ -13,8 +13,8 @@ class HelloWorld
             {
                 Console.Write(number - i);
             }
-            Console.WriteLine("\n"); 
+            Console.WriteLine("\n");
         }
-        Console.ReadKey();
+        Console.Read();
     }
 }

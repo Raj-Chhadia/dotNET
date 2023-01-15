@@ -4,3 +4,4 @@ D:\Marwadi\SEM-6\dotNET\LAB\Practical 2\Reverse\bin\Debug\Reverse.pdb
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 2\Reverse\obj\Debug\Reverse.csproj.CoreCompileInputs.cache
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 2\Reverse\obj\Debug\Reverse.exe
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 2\Reverse\obj\Debug\Reverse.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 2\Reverse\obj\Debug\Reverse.csproj.AssemblyReference.cache

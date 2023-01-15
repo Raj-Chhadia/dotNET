@@ -1,15 +1,11 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Calculator
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
-        {   
+        private static void Main(string[] args)
+        {
             Console.WriteLine("Calculator");
             Console.WriteLine("Enter operation (+.-,*,/): ");
             string operation = Console.ReadLine();
@@ -20,22 +16,26 @@ namespace Calculator
             switch (operation)
             {
                 case "+":
-                    Console.WriteLine("Addition of two number is: " + (a+b));
+                    Console.WriteLine("Addition of two number is: " + (a + b));
                     break;
+
                 case "-":
-                    Console.WriteLine("Subtraction of two number is: " + (a-b));
+                    Console.WriteLine("Subtraction of two number is: " + (a - b));
                     break;
+
                 case "*":
-                    Console.WriteLine("Multiplication of two number is: " + (a*b));
+                    Console.WriteLine("Multiplication of two number is: " + (a * b));
                     break;
+
                 case "/":
-                    Console.WriteLine("Division of two number is: " + (a/b));
+                    Console.WriteLine("Division of two number is: " + (a / b));
                     break;
+
                 default:
                     Console.WriteLine("Invalid Input!");
                     break;
             }
-            Console.ReadKey();
-            }
+            Console.Read();
         }
     }
+}

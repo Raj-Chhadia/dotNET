@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Reverse
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Reversal of array");
             Console.WriteLine("Enter the number of element : ");
@@ -27,7 +23,7 @@ namespace Reverse
                 Console.Write("Reverse array is :");
                 Console.WriteLine(original_array[i]);
             }
-            Console.ReadKey();
+            Console.Read();
         }
     }
 }
