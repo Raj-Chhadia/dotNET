@@ -1,14 +1,10 @@
 ﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
 
 namespace Information
 {
-    class Program
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Raj Chhadia");
             Student s1 = new Student();
@@ -29,11 +25,11 @@ namespace Information
                     e1.putData();
                     break;
             }
-            Console.ReadKey();
+            Console.Read();
         }
     }
 
-    class Information
+    internal class Information
     {
         public string name;
         public string surname;
@@ -49,15 +45,18 @@ namespace Information
             number = int.Parse(Console.ReadLine());
         }
     }
-    class Employee:Information
+
+    internal class Employee : Information
     {
-        int salary;
+        private int salary;
+
         public void getData()
         {
             base.getData();
             Console.WriteLine("Enter the employee salary: ");
-            salary = int.Parse(Console.ReadLine());  
+            salary = int.Parse(Console.ReadLine());
         }
+
         public void putData()
         {
             Console.WriteLine("Name: " + name);
@@ -66,9 +65,10 @@ namespace Information
             Console.WriteLine("Salary: " + salary);
         }
     }
-    class Student:Information
+
+    internal class Student : Information
     {
-        int semester;
+        private int semester;
 
         public void getData()
         {
@@ -76,6 +76,7 @@ namespace Information
             Console.WriteLine("Enter the semester number: ");
             semester = int.Parse(Console.ReadLine());
         }
+
         public void putData()
         {
             Console.WriteLine("Name: " + name);

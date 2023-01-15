@@ -21,7 +21,7 @@ namespace Apartment
             f3.display();
             f3.balcony();
 
-            Console.ReadKey();
+            Console.Read();
         }
     }
 
@@ -86,9 +86,6 @@ namespace Apartment
             Console.WriteLine("\tBalcony: Circular\n");
         }
     }
-
-    //Mark ThreeBHK class as sealed as no 4 or more BHK
-    //are allowed in this apartment to build
 
     public sealed class ThreeBHK : TwoBHK
     {
