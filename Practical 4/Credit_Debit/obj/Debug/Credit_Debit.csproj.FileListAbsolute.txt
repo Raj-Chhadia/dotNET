@@ -1,0 +1,7 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Credit_Debit\bin\Debug\Credit_Debit.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Credit_Debit\bin\Debug\Credit_Debit.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Credit_Debit\bin\Debug\Credit_Debit.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Credit_Debit\obj\Debug\Credit_Debit.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Credit_Debit\obj\Debug\Credit_Debit.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Credit_Debit\obj\Debug\Credit_Debit.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 4\Credit_Debit\obj\Debug\Credit_Debit.pdb

@@ -1,7 +1,7 @@
-﻿using System;
-
-namespace Addition
+﻿namespace Addition
 {
+    using System;
+
     internal class Program
     {
         private static void Main(string[] args)

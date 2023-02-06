@@ -1,17 +1,13 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace Interface_area
+﻿namespace Interface_area
 {
-    interface Area
+    using System;
+
+    internal interface Area
     {
         void area();
     }
 
-    class Square : Area
+    internal class Square : Area
     {
         private float side;
 
@@ -23,13 +19,14 @@ namespace Interface_area
 
         public void area()
         {
-            Console.WriteLine("Area of sqaure is: " + (side*side));
+            Console.WriteLine("Area of sqaure is: " + (side * side));
         }
     }
 
-    class Rectangle : Area
+    internal class Rectangle : Area
     {
         private float length;
+
         private float breadth;
 
         public Rectangle(float length, float breadth)
@@ -45,7 +42,7 @@ namespace Interface_area
         }
     }
 
-    class Circle : Area
+    internal class Circle : Area
     {
         private float radius;
 
@@ -60,14 +57,15 @@ namespace Interface_area
             Console.WriteLine("Area of circle is: " + (3.14 * radius * radius));
         }
     }
-    class Program
+
+    internal class Program
     {
-        static void Main(string[] args)
+        private static void Main(string[] args)
         {
             Console.WriteLine("Area using interface");
             Console.WriteLine("Raj Chhadia");
             float side, length, breadth, radius;
-            
+
             Console.WriteLine("Enter side of a square");
             side = float.Parse(Console.ReadLine());
             Square sq = new Square(side);
@@ -82,7 +80,7 @@ namespace Interface_area
             radius = float.Parse(Console.ReadLine());
             Circle circ = new Circle(radius);
 
-            Console.ReadKey();
+            Console.Read();
         }
     }
 }
