@@ -1,0 +1,10 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\bin\Debug\WindowsForms_Calc.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\bin\Debug\WindowsForms_Calc.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\bin\Debug\WindowsForms_Calc.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\obj\Debug\WindowsForms_Calc.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\obj\Debug\WindowsForms_Calc.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\obj\Debug\WindowsForms_Calc.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\obj\Debug\WindowsForms_Calc.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\obj\Debug\WindowsForms_Calc.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\obj\Debug\WindowsForms_Calc.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForms_Calc\WindowsForms_Calc\obj\Debug\WindowsForms_Calc.pdb

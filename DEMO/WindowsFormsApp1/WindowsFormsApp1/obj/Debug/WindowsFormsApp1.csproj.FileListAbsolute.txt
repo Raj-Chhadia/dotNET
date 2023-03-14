@@ -1,0 +1,10 @@
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.exe
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\bin\Debug\WindowsFormsApp1.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.exe
+D:\Marwadi\SEM-6\dotNET\LAB\DEMO\WindowsFormsApp1\WindowsFormsApp1\obj\Debug\WindowsFormsApp1.pdb

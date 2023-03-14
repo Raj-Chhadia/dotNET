@@ -1,0 +1,7 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Demo\Demo\bin\Debug\Demo.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Demo\Demo\bin\Debug\Demo.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Demo\Demo\bin\Debug\Demo.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Demo\Demo\obj\Debug\Demo.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Demo\Demo\obj\Debug\Demo.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Demo\Demo\obj\Debug\Demo.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Demo\Demo\obj\Debug\Demo.pdb

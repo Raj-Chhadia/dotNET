@@ -1,0 +1,10 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\bin\Debug\WindowsForm_color.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\bin\Debug\WindowsForm_color.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\bin\Debug\WindowsForm_color.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\obj\Debug\WindowsForm_color.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\obj\Debug\WindowsForm_color.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\obj\Debug\WindowsForm_color.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\obj\Debug\WindowsForm_color.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\obj\Debug\WindowsForm_color.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\obj\Debug\WindowsForm_color.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 7\WindowsForm_color\WindowsForm_color\obj\Debug\WindowsForm_color.pdb
