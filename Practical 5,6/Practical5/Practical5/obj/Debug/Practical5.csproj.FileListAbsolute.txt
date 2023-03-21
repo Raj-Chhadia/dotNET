@@ -5,3 +5,10 @@ D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Practical5\Practical5\obj\Debug\Practica
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Practical5\Practical5\obj\Debug\Practical5.csproj.CoreCompileInputs.cache
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Practical5\Practical5\obj\Debug\Practical5.exe
 D:\Marwadi\SEM-6\dotNET\LAB\Practical 5\Practical5\Practical5\obj\Debug\Practical5.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5,6\Practical5\Practical5\bin\Debug\Practical5.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5,6\Practical5\Practical5\bin\Debug\Practical5.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5,6\Practical5\Practical5\bin\Debug\Practical5.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5,6\Practical5\Practical5\obj\Debug\Practical5.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5,6\Practical5\Practical5\obj\Debug\Practical5.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5,6\Practical5\Practical5\obj\Debug\Practical5.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 5,6\Practical5\Practical5\obj\Debug\Practical5.pdb

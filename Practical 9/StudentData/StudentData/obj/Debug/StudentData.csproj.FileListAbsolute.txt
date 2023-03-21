@@ -1,0 +1,10 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\bin\Debug\StudentData.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\bin\Debug\StudentData.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\bin\Debug\StudentData.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\obj\Debug\StudentData.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\obj\Debug\StudentData.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\obj\Debug\StudentData.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\obj\Debug\StudentData.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\obj\Debug\StudentData.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\obj\Debug\StudentData.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 9\StudentData\StudentData\obj\Debug\StudentData.pdb

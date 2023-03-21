@@ -55,8 +55,8 @@ namespace Practical5
                 string output = "";
                 SqlConnection conn = new SqlConnection(connection_str);
                 conn.Open();
-                //string sql = "SELECT * FROM employee";
-                string sql = "SELECT * FROM employee WHERE Emp_id=1";
+                string sql = "SELECT * FROM employee";
+                //string sql = "SELECT * FROM employee WHERE Emp_id=1";
                 SqlCommand command = new SqlCommand(sql, conn);
                 SqlDataReader dataReader = command.ExecuteReader();
                 Console.Write(format("Emp_id") + format("Name")+ format("Designation")+ format("Department")+ format("Sales") + "\n" );
@@ -113,14 +113,14 @@ namespace Practical5
             Database db1 = new Database();
             //Console.WriteLine("Creating a table");
             //db1.create();
-            Console.WriteLine("Inserting into a table");
-            db1.insert();
-            Console.WriteLine("Reading a table");
-            db1.read();
-            //Console.WriteLine("Deleting all entries");
-            //db1.delete();
+            //Console.WriteLine("Inserting into a table");
+            //db1.insert();
             //Console.WriteLine("Reading a table");
             //db1.read();
+            //Console.WriteLine("Deleting all entries");
+            //db1.delete();
+            Console.WriteLine("Reading a table");
+            db1.read();
 
             Console.ReadKey();
         }

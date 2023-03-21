@@ -1,0 +1,1 @@
+﻿SELECT name,designation,department,salary from employee where emp_id=1;

@@ -1,0 +1,10 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\bin\Debug\GridView.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\bin\Debug\GridView.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\bin\Debug\GridView.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\obj\Debug\GridView.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\obj\Debug\GridView.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\obj\Debug\GridView.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\obj\Debug\GridView.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\obj\Debug\GridView.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\obj\Debug\GridView.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 10\GridView\GridView\obj\Debug\GridView.pdb
