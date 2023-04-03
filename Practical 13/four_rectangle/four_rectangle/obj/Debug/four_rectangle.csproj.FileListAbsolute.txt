@@ -1,0 +1,10 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\bin\Debug\four_rectangle.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\bin\Debug\four_rectangle.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\bin\Debug\four_rectangle.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\obj\Debug\four_rectangle.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\obj\Debug\four_rectangle.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\obj\Debug\four_rectangle.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\obj\Debug\four_rectangle.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\obj\Debug\four_rectangle.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\obj\Debug\four_rectangle.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\four_rectangle\four_rectangle\obj\Debug\four_rectangle.pdb

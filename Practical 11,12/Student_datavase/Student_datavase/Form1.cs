@@ -15,7 +15,7 @@ namespace Student_datavase
         {
             string conn_str = @"Data Source=(localdb)\ProjectsV13;Initial Catalog=Demodb;Integrated Security=True;Connect Timeout=30;Encrypt=False;TrustServerCertificate=False;ApplicationIntent=ReadWrite;MultiSubnetFailover=False";
             SqlConnection conn = new SqlConnection(conn_str);
-            string sql = @"INSERT INTO employee VALUES (" + txt1.Text + ", '" + txt2.Text + "', '" + txt3.Text + "','" + txt4.Text + "'," + txt5.Text + ");";
+            string sql = @"INSERT INTO employee VALUES ( '" + txt2.Text + "', '" + txt3.Text + "','" + txt4.Text + "'," + txt5.Text + ");";
             SqlCommand cmd = new SqlCommand(sql, conn);
             try
             {

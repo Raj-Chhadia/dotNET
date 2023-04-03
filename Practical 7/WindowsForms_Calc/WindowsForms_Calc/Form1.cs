@@ -37,11 +37,6 @@ namespace WindowsForms_Calc
             Operation = "-";
         }
 
-        private void textBox1_TextChanged_1(object sender, EventArgs e)
-        {
-
-        }
-
         private void num_3_Click(object sender, EventArgs e)
         {
             if (textBox1.Text == "0" && textBox1.Text != null)
@@ -166,34 +161,26 @@ namespace WindowsForms_Calc
         private void equals_Click(object sender, EventArgs e)
         {
             SecondNumber = Convert.ToDouble(textBox1.Text);
-
-            if (Operation == "+")
-            {
+            if (Operation == "+") {
                 Result = (FirstNumber + SecondNumber);
                 textBox1.Text = Convert.ToString(Result);
                 FirstNumber = Result;
             }
-            if (Operation == "-")
-            {
+            if (Operation == "-") {
                 Result = (FirstNumber - SecondNumber);
                 textBox1.Text = Convert.ToString(Result);
                 FirstNumber = Result;
             }
-            if (Operation == "*")
-            {
+            if (Operation == "*") {
                 Result = (FirstNumber * SecondNumber);
                 textBox1.Text = Convert.ToString(Result);
                 FirstNumber = Result;
             }
-            if (Operation == "/")
-            {
-                if (SecondNumber == 0)
-                {
+            if (Operation == "/") {
+                if (SecondNumber == 0) {
                     textBox1.Text = "Cannot divide by zero";
-
                 }
-                else
-                {
+                else {
                     Result = (FirstNumber / SecondNumber);
                     textBox1.Text = Convert.ToString(Result);
                     FirstNumber = Result;

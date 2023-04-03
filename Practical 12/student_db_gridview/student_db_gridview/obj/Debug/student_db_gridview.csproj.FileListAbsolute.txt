@@ -1,0 +1,10 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\bin\Debug\student_db_gridview.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\bin\Debug\student_db_gridview.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\bin\Debug\student_db_gridview.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\obj\Debug\student_db_gridview.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\obj\Debug\student_db_gridview.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\obj\Debug\student_db_gridview.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\obj\Debug\student_db_gridview.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\obj\Debug\student_db_gridview.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\obj\Debug\student_db_gridview.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 12\student_db_gridview\student_db_gridview\obj\Debug\student_db_gridview.pdb

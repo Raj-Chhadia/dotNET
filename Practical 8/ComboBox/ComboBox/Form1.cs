@@ -13,21 +13,6 @@ namespace ComboBox
                 comboBox1.Items.Add(s);
         }
 
-        private void comboBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void listBox1_SelectedIndexChanged(object sender, EventArgs e)
-        {
-
-        }
-
-        private void label2_Click(object sender, EventArgs e)
-        {
-
-        }
-
         private void button1_Click(object sender, EventArgs e)
         {
             this.BackColor = Color.FromName(comboBox1.SelectedItem.ToString());

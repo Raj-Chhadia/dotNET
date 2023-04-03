@@ -1,0 +1,9 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\bin\Debug\two_ellipse.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\bin\Debug\two_ellipse.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\bin\Debug\two_ellipse.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\obj\Debug\two_ellipse.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\obj\Debug\two_ellipse.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\obj\Debug\two_ellipse.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\obj\Debug\two_ellipse.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\obj\Debug\two_ellipse.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\two_ellipse\two_ellipse\obj\Debug\two_ellipse.pdb

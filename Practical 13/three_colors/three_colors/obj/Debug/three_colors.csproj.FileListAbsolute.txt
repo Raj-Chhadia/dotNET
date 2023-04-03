@@ -1,0 +1,10 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\bin\Debug\three_colors.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\bin\Debug\three_colors.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\bin\Debug\three_colors.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\obj\Debug\three_colors.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\obj\Debug\three_colors.Form1.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\obj\Debug\three_colors.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\obj\Debug\three_colors.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\obj\Debug\three_colors.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\obj\Debug\three_colors.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 13\three_colors\three_colors\obj\Debug\three_colors.pdb

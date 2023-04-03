@@ -5,13 +5,7 @@ namespace Student_Form
 {
     public partial class Form1 : Form
     {
-        string name;
-        string en;
-        string email;
-        string mob;
-        string sem;
-        string gender;
-        string dob;
+        string name,en,email,mob,sem,gender,dob;
         public Form1()
         {
             InitializeComponent();

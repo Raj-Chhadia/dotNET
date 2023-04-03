@@ -1,17 +1,18 @@
-﻿using System;
-using System.Data.SqlClient;
-using System.Windows.Forms;
-
-namespace StudentData
+﻿namespace StudentData
 {
+    using System;
+    using System.Data.SqlClient;
+    using System.Windows.Forms;
+
     public partial class Form1 : Form
     {
-        string gender;
-        
+        internal string gender;
+
         public Form1()
         {
             InitializeComponent();
         }
+
         private void bt1_Click(object sender, EventArgs e)
         {
             string tc = chk_tc.Checked.ToString();
@@ -19,7 +20,7 @@ namespace StudentData
             SqlConnection conn = new SqlConnection(conn_str);
             string sql = @"INSERT INTO student VALUES ('" + txt1.Text + "', " + txt2.Text + ", '" + txt3.Text + "'," + txt4.Text + "," + cmb1.SelectedItem.ToString() + ",'" + gender + "','" + dtp1.Text + "','" + tc + "');";
             SqlCommand cmd = new SqlCommand(sql, conn);
-            
+
             if (rd1.Checked)
                 gender = rd1.Text;
             else
@@ -35,14 +36,13 @@ namespace StudentData
                 }
                 catch (Exception err)
                 {
-                    MessageBox.Show(""+err);
+                    MessageBox.Show("" + err);
                 }
             }
             else
             {
                 MessageBox.Show("Accept T&C!");
             }
-
-            }
+        }
     }
 }
