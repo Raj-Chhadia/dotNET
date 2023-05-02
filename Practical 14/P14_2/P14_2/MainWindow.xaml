@@ -1,0 +1,50 @@
+﻿<Window x:Class="P14_2.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        xmlns:d="http://schemas.microsoft.com/expression/blend/2008"
+        xmlns:mc="http://schemas.openxmlformats.org/markup-compatibility/2006"
+        xmlns:local="clr-namespace:P14_2"
+        mc:Ignorable="d"
+        Title="Student Details" Height="350" Width="525">
+    <Grid>
+        <Grid.RowDefinitions>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+            <RowDefinition Height="Auto"/>
+        </Grid.RowDefinitions>
+        <Grid.ColumnDefinitions>
+            <ColumnDefinition Width="Auto"/>
+            <ColumnDefinition Width="Auto"/>
+        </Grid.ColumnDefinitions>
+        <Label Content="Full Name:" Grid.Row="0" Grid.Column="0"/>
+        <TextBox x:Name="txt1" Grid.Row="0" Grid.Column="1"/>
+        <Label Content="Enrollment:" Grid.Row="1" Grid.Column="0"/>
+        <TextBox x:Name="txt2" Grid.Row="1" Grid.Column="1"/>
+        <Label Content="Email:" Grid.Row="2" Grid.Column="0"/>
+        <TextBox x:Name="txt3" Grid.Row="2" Grid.Column="1"/>
+        <Label Content="Mobile:" Grid.Row="3" Grid.Column="0"/>
+        <TextBox x:Name="txt4" Grid.Row="3" Grid.Column="1"/>
+        <Label Content="Semester:" Grid.Row="4" Grid.Column="0"/>
+        <ComboBox x:Name="cmb1" Grid.Row="4" Grid.Column="1">
+            <ComboBoxItem Content="1"/>
+            <ComboBoxItem Content="2"/>
+            <ComboBoxItem Content="3"/>
+            <ComboBoxItem Content="4"/>
+            <ComboBoxItem Content="5"/>
+            <ComboBoxItem Content="6"/>
+            <ComboBoxItem Content="7"/>
+            <ComboBoxItem Content="8"/>
+        </ComboBox>
+        <Label Content="Gender:" Grid.Row="5" Grid.Column="0"/>
+        <RadioButton x:Name="rd1" Content="Male" Grid.Row="5" Grid.Column="1"/>
+        <RadioButton x:Name="rd2" Content="Female" Grid.Row="5" Grid.Column="1" Margin="75,0,0,0"/>
+        <Label Content="Birthdate:" Grid.Row="6" Grid.Column="0"/>
+        <DatePicker x:Name="dtp1" Grid.Row="6" Grid.Column="1"/>
+        <Button x:Name="btn1" Content="Submit" Grid.Row="7" Grid.Column="1" Click="btn1_Click"/>
+    </Grid>
+</Window>

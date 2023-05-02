@@ -1,0 +1,15 @@
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\bin\Debug\P14_2.exe.config
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\bin\Debug\P14_2.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\bin\Debug\P14_2.pdb
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2.csproj.AssemblyReference.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\MainWindow.g.cs
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\App.g.cs
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2_MarkupCompile.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2_MarkupCompile.lref
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\MainWindow.baml
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2.g.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2.Properties.Resources.resources
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2.csproj.GenerateResource.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2.csproj.CoreCompileInputs.cache
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2.exe
+D:\Marwadi\SEM-6\dotNET\LAB\Practical 14\P14_2\P14_2\obj\Debug\P14_2.pdb

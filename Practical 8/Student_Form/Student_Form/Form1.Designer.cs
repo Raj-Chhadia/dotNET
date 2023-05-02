@@ -45,6 +45,7 @@ namespace Student_Form
             this.label_dob = new System.Windows.Forms.Label();
             this.dtp1 = new System.Windows.Forms.DateTimePicker();
             this.bt1 = new System.Windows.Forms.Button();
+            this.linkLabel1 = new System.Windows.Forms.LinkLabel();
             this.SuspendLayout();
             // 
             // label_name
@@ -85,7 +86,6 @@ namespace Student_Form
             this.txt3.Name = "txt3";
             this.txt3.Size = new System.Drawing.Size(187, 22);
             this.txt3.TabIndex = 5;
-           
             // 
             // label_email
             // 
@@ -95,7 +95,6 @@ namespace Student_Form
             this.label_email.Size = new System.Drawing.Size(46, 17);
             this.label_email.TabIndex = 4;
             this.label_email.Text = "Email:";
-            
             // 
             // txt4
             // 
@@ -196,11 +195,24 @@ namespace Student_Form
             this.bt1.UseVisualStyleBackColor = true;
             this.bt1.Click += new System.EventHandler(this.bt1_Click);
             // 
+            // linkLabel1
+            // 
+            this.linkLabel1.AutoSize = true;
+            this.linkLabel1.Font = new System.Drawing.Font("Microsoft Sans Serif", 15F, System.Drawing.FontStyle.Regular, System.Drawing.GraphicsUnit.Point, ((byte)(0)));
+            this.linkLabel1.Location = new System.Drawing.Point(133, 511);
+            this.linkLabel1.Name = "linkLabel1";
+            this.linkLabel1.Size = new System.Drawing.Size(172, 29);
+            this.linkLabel1.TabIndex = 16;
+            this.linkLabel1.TabStop = true;
+            this.linkLabel1.Text = "Open notepad";
+            this.linkLabel1.LinkClicked += new System.Windows.Forms.LinkLabelLinkClickedEventHandler(this.linkLabel1_LinkClicked);
+            // 
             // Form1
             // 
             this.AutoScaleDimensions = new System.Drawing.SizeF(8F, 16F);
             this.AutoScaleMode = System.Windows.Forms.AutoScaleMode.Font;
             this.ClientSize = new System.Drawing.Size(471, 561);
+            this.Controls.Add(this.linkLabel1);
             this.Controls.Add(this.bt1);
             this.Controls.Add(this.dtp1);
             this.Controls.Add(this.label_dob);
@@ -242,6 +254,7 @@ namespace Student_Form
         private System.Windows.Forms.Label label_dob;
         private System.Windows.Forms.DateTimePicker dtp1;
         private System.Windows.Forms.Button bt1;
+        private System.Windows.Forms.LinkLabel linkLabel1;
     }
 }
 
